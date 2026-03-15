@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"facc0a1728a87d91","x":-960,"y":-100,"width":400,"height":100,"color":"2","type":"text","text":"PARADIGMAS DE PROGRAMACIÓN\nenfoque de abordaje del problema y diseño de la solución"},
+		{"id":"facc0a1728a87d91","x":-920,"y":-100,"width":360,"height":100,"color":"2","type":"text","text":"==PARADIGMAS DE PROGRAMACIÓN\nenfoque de abordaje del problema y diseño de la solución"},
 		{"id":"7d4aabd1db89e879","type":"text","text":"PROGRAMACIÓN IMPERATIVA","x":-432,"y":-520,"width":185,"height":70,"color":"1"},
 		{"id":"e658ee3f4eef9b31","type":"text","text":"![[Pasted image 20260315112030.png]]","x":-180,"y":-615,"width":445,"height":260,"color":"4"},
 		{"id":"3be77e804706bd6e","type":"text","text":"PROGRAMACIÓN FUNCIONAL","x":-432,"y":-85,"width":185,"height":70,"color":"1"},
@@ -13,9 +13,12 @@
 		{"id":"b3328fd36fce4779","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-432,"y":-920,"width":185,"height":80,"color":"1"},
 		{"id":"3d0c0d78cc1663ce","x":-180,"y":-951,"width":440,"height":143,"color":"4","type":"text","text":"![[Pasted image 20260315113930.png]]"},
 		{"id":"ed4d00dc8f20d7d5","x":320,"y":-1038,"width":417,"height":174,"color":"3","type":"text","text":"Un ==**aspecto**== es una **funcionalidad que atraviesa varias partes del programa**.\n\nSon cosas que **no pertenecen a una sola clase o módulo**, sino que aparecen repetidas en muchos lugares del sistema."},
-		{"id":"ae7f09896a4acc7e","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-1320,"y":-695,"width":185,"height":80,"color":"1"},
-		{"id":"0e32825c37a6038c","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-1280,"y":-165,"width":185,"height":80,"color":"1"},
-		{"id":"c4d8b051d416977a","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-1280,"y":345,"width":185,"height":80,"color":"1"}
+		{"id":"ae7f09896a4acc7e","type":"text","text":"PROGRAMACIÓN ORIENTADA A EVENTOS","x":-1320,"y":-695,"width":185,"height":80,"color":"1"},
+		{"id":"0e32825c37a6038c","type":"text","text":"PROGRAMACIÓN GENÉRICA","x":-1320,"y":-140,"width":185,"height":80,"color":"1"},
+		{"id":"c4d8b051d416977a","type":"text","text":"MODELO DE MÚLTIPLE PARADIGMA","x":-1320,"y":345,"width":185,"height":80,"color":"1"},
+		{"id":"046972baa7892080","x":-1940,"y":-698,"width":500,"height":86,"type":"text","text":"![[Pasted image 20260315114400.png]]"},
+		{"id":"e382dde4627a015a","x":-1780,"y":-164,"width":310,"height":128,"color":"4","type":"text","text":"![[Pasted image 20260315114605.png]]"},
+		{"id":"8918b08530592599","x":-2220,"y":-204,"width":340,"height":81,"color":"3","type":"text","text":"es una ==técnica o mecanismo== que puede usarse dentro de varios paradigmas"}
 	],
 	"edges":[
 		{"id":"059b1dfa91df0eea","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"7d4aabd1db89e879","toSide":"left"},
@@ -29,7 +32,13 @@
 		{"id":"30487298a2f93e7a","fromNode":"dc5b3053456a02a4","fromSide":"right","toNode":"70ae52f8c69c1c00","toSide":"left"},
 		{"id":"8c8e28085c5fbf69","fromNode":"b3328fd36fce4779","fromSide":"right","toNode":"3d0c0d78cc1663ce","toSide":"left"},
 		{"id":"83ec33d659ad279d","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"b3328fd36fce4779","toSide":"left"},
-		{"id":"45ba9755a92fda46","fromNode":"3d0c0d78cc1663ce","fromSide":"right","toNode":"ed4d00dc8f20d7d5","toSide":"left"}
+		{"id":"45ba9755a92fda46","fromNode":"3d0c0d78cc1663ce","fromSide":"right","toNode":"ed4d00dc8f20d7d5","toSide":"left"},
+		{"id":"505f2a01cc65dd98","fromNode":"facc0a1728a87d91","fromSide":"left","toNode":"ae7f09896a4acc7e","toSide":"right"},
+		{"id":"4584ebaab9511bae","fromNode":"ae7f09896a4acc7e","fromSide":"left","toNode":"046972baa7892080","toSide":"right"},
+		{"id":"6c747292828bc503","fromNode":"facc0a1728a87d91","fromSide":"left","toNode":"0e32825c37a6038c","toSide":"right"},
+		{"id":"ccc4e736c6a1f53b","fromNode":"0e32825c37a6038c","fromSide":"left","toNode":"e382dde4627a015a","toSide":"right"},
+		{"id":"327520944771e50d","fromNode":"e382dde4627a015a","fromSide":"left","toNode":"8918b08530592599","toSide":"right"},
+		{"id":"d47a5eba45d66b71","fromNode":"facc0a1728a87d91","fromSide":"left","toNode":"c4d8b051d416977a","toSide":"right"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
