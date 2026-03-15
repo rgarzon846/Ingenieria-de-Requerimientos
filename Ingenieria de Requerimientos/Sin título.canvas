@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e658ee3f4eef9b31","type":"text","text":"![[Pasted image 20260315112030.png]]","x":-340,"y":-180,"width":445,"height":260},
+		{"id":"7d4aabd1db89e879","type":"text","text":"PROGRAMACIÓN IMPERATIVA","x":-210,"y":-340,"width":185,"height":70}
+	],
+	"edges":[
+		{"id":"f4c184a53f5ea58e","fromNode":"7d4aabd1db89e879","fromSide":"bottom","toNode":"e658ee3f4eef9b31","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"f943e47a6c61d062"
+	}
+}

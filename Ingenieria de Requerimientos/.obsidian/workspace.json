@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e993e08522ca0e9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-15 11.15.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-15 11.15.30.excalidraw"
+            }
+          },
+          {
             "id": "bbf24e01afdc86f6",
             "type": "leaf",
             "state": {
@@ -22,17 +34,24 @@
         ]
       },
       {
-        "id": "b421e07ca32403cb",
+        "id": "436823a8c6dd8974",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb32021f3eefa02",
+            "id": "71a8ed39b5c96289",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "canvas",
+              "state": {
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0.20312500000001776,
+                  "y": 115.86875000000008,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
             }
           }
         ]
@@ -200,8 +219,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6eb32021f3eefa02",
+  "active": "71a8ed39b5c96289",
   "lastOpenFiles": [
+    "Pasted image 20260315112030.png",
+    "PDFs/Paradigmas y lenguajes _260309_102921.pdf",
+    "Sin título.canvas",
+    "Excalidraw/Drawing 2026-03-15 11.15.30.excalidraw.md",
+    "Excalidraw",
     "PDFs/4-Modelos de Procesos Desarrollo de SW_260309_105003.pdf",
     "Bienvenido.md"
   ]
