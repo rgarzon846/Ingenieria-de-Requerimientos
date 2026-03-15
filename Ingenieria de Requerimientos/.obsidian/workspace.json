@@ -45,9 +45,9 @@
               "state": {
                 "file": "Sin título.canvas",
                 "viewState": {
-                  "x": 8.510368833805781,
-                  "y": 191.24943241000608,
-                  "zoom": -0.5259190370142461
+                  "x": -997.6210348156513,
+                  "y": -317.8917504111565,
+                  "zoom": -1.4504509786268072
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -221,6 +221,7 @@
   },
   "active": "71a8ed39b5c96289",
   "lastOpenFiles": [
+    "Pasted image 20260315113930.png",
     "Pasted image 20260315113203.png",
     "Pasted image 20260315112912.png",
     "Pasted image 20260315112733.png",

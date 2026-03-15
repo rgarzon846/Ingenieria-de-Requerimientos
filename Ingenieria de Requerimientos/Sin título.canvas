@@ -8,7 +8,14 @@
 		{"id":"1e92fc245749ec31","type":"text","text":"PROGRAMACIÓN LÓGICA","x":-432,"y":240,"width":185,"height":70,"color":"1"},
 		{"id":"fa4e405f8d7fd851","x":-180,"y":205,"width":483,"height":140,"color":"4","type":"text","text":"![[Pasted image 20260315112912.png]]"},
 		{"id":"71d6832393f980f6","type":"text","text":"PROGRAMACIÓN ORIENTADA A OBJETOS (P.O.O)","x":-432,"y":540,"width":185,"height":80,"color":"1"},
-		{"id":"dc5b3053456a02a4","x":-180,"y":431,"width":664,"height":299,"color":"4","type":"text","text":"![[Pasted image 20260315113203.png]]"}
+		{"id":"dc5b3053456a02a4","x":-180,"y":431,"width":664,"height":299,"color":"4","type":"text","text":"![[Pasted image 20260315113203.png]]"},
+		{"id":"70ae52f8c69c1c00","x":640,"y":240,"width":437,"height":219,"color":"3","type":"text","text":"El **==reconocimiento de  lenguaje natural==** es cuando un programa puede:\n\n- **leer texto humano**\n    \n- **interpretar su significado**\n    \n- **extraer información**\n    \n- **responder adecuadamente**"},
+		{"id":"b3328fd36fce4779","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-432,"y":-920,"width":185,"height":80,"color":"1"},
+		{"id":"3d0c0d78cc1663ce","x":-180,"y":-951,"width":440,"height":143,"color":"4","type":"text","text":"![[Pasted image 20260315113930.png]]"},
+		{"id":"ed4d00dc8f20d7d5","x":320,"y":-1038,"width":417,"height":174,"color":"3","type":"text","text":"Un ==**aspecto**== es una **funcionalidad que atraviesa varias partes del programa**.\n\nSon cosas que **no pertenecen a una sola clase o módulo**, sino que aparecen repetidas en muchos lugares del sistema."},
+		{"id":"ae7f09896a4acc7e","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-1320,"y":-695,"width":185,"height":80,"color":"1"},
+		{"id":"0e32825c37a6038c","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-1280,"y":-165,"width":185,"height":80,"color":"1"},
+		{"id":"c4d8b051d416977a","type":"text","text":"PROGRAMACIÓN ORIENTADA A ASPECTOS","x":-1280,"y":345,"width":185,"height":80,"color":"1"}
 	],
 	"edges":[
 		{"id":"059b1dfa91df0eea","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"7d4aabd1db89e879","toSide":"left"},
@@ -18,7 +25,11 @@
 		{"id":"4d860e2cf16ae75a","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"1e92fc245749ec31","toSide":"left"},
 		{"id":"c89f2a6c43e4f179","fromNode":"1e92fc245749ec31","fromSide":"right","toNode":"fa4e405f8d7fd851","toSide":"left"},
 		{"id":"3f06d16a4b33cf60","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"71d6832393f980f6","toSide":"left"},
-		{"id":"14370ccf5c54fe7e","fromNode":"71d6832393f980f6","fromSide":"right","toNode":"dc5b3053456a02a4","toSide":"left"}
+		{"id":"14370ccf5c54fe7e","fromNode":"71d6832393f980f6","fromSide":"right","toNode":"dc5b3053456a02a4","toSide":"left"},
+		{"id":"30487298a2f93e7a","fromNode":"dc5b3053456a02a4","fromSide":"right","toNode":"70ae52f8c69c1c00","toSide":"left"},
+		{"id":"8c8e28085c5fbf69","fromNode":"b3328fd36fce4779","fromSide":"right","toNode":"3d0c0d78cc1663ce","toSide":"left"},
+		{"id":"83ec33d659ad279d","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"b3328fd36fce4779","toSide":"left"},
+		{"id":"45ba9755a92fda46","fromNode":"3d0c0d78cc1663ce","fromSide":"right","toNode":"ed4d00dc8f20d7d5","toSide":"left"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
