@@ -45,9 +45,9 @@
               "state": {
                 "file": "Sin título.canvas",
                 "viewState": {
-                  "x": 0.20312500000001776,
-                  "y": 115.86875000000008,
-                  "zoom": 0
+                  "x": 8.510368833805781,
+                  "y": 191.24943241000608,
+                  "zoom": -0.5259190370142461
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -221,6 +221,9 @@
   },
   "active": "71a8ed39b5c96289",
   "lastOpenFiles": [
+    "Pasted image 20260315113203.png",
+    "Pasted image 20260315112912.png",
+    "Pasted image 20260315112733.png",
     "Pasted image 20260315112030.png",
     "PDFs/Paradigmas y lenguajes _260309_102921.pdf",
     "Sin título.canvas",

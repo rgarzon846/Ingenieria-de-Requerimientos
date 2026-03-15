@@ -1,10 +1,24 @@
 {
 	"nodes":[
-		{"id":"e658ee3f4eef9b31","type":"text","text":"![[Pasted image 20260315112030.png]]","x":-340,"y":-180,"width":445,"height":260},
-		{"id":"7d4aabd1db89e879","type":"text","text":"PROGRAMACIÓN IMPERATIVA","x":-210,"y":-340,"width":185,"height":70}
+		{"id":"facc0a1728a87d91","x":-960,"y":-100,"width":400,"height":100,"color":"2","type":"text","text":"PARADIGMAS DE PROGRAMACIÓN\nenfoque de abordaje del problema y diseño de la solución"},
+		{"id":"7d4aabd1db89e879","type":"text","text":"PROGRAMACIÓN IMPERATIVA","x":-432,"y":-520,"width":185,"height":70,"color":"1"},
+		{"id":"e658ee3f4eef9b31","type":"text","text":"![[Pasted image 20260315112030.png]]","x":-180,"y":-615,"width":445,"height":260,"color":"4"},
+		{"id":"3be77e804706bd6e","type":"text","text":"PROGRAMACIÓN FUNCIONAL","x":-432,"y":-85,"width":185,"height":70,"color":"1"},
+		{"id":"65614d13ed2f2524","x":-180,"y":-177,"width":580,"height":257,"color":"4","type":"text","text":"![[Pasted image 20260315112733.png]]"},
+		{"id":"1e92fc245749ec31","type":"text","text":"PROGRAMACIÓN LÓGICA","x":-432,"y":240,"width":185,"height":70,"color":"1"},
+		{"id":"fa4e405f8d7fd851","x":-180,"y":205,"width":483,"height":140,"color":"4","type":"text","text":"![[Pasted image 20260315112912.png]]"},
+		{"id":"71d6832393f980f6","type":"text","text":"PROGRAMACIÓN ORIENTADA A OBJETOS (P.O.O)","x":-432,"y":540,"width":185,"height":80,"color":"1"},
+		{"id":"dc5b3053456a02a4","x":-180,"y":431,"width":664,"height":299,"color":"4","type":"text","text":"![[Pasted image 20260315113203.png]]"}
 	],
 	"edges":[
-		{"id":"f4c184a53f5ea58e","fromNode":"7d4aabd1db89e879","fromSide":"bottom","toNode":"e658ee3f4eef9b31","toSide":"top"}
+		{"id":"059b1dfa91df0eea","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"7d4aabd1db89e879","toSide":"left"},
+		{"id":"b3af5af2c71a430f","fromNode":"7d4aabd1db89e879","fromSide":"right","toNode":"e658ee3f4eef9b31","toSide":"left"},
+		{"id":"e243dba3baff487d","fromNode":"3be77e804706bd6e","fromSide":"right","toNode":"65614d13ed2f2524","toSide":"left"},
+		{"id":"d118b0a88be89b00","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"3be77e804706bd6e","toSide":"left"},
+		{"id":"4d860e2cf16ae75a","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"1e92fc245749ec31","toSide":"left"},
+		{"id":"c89f2a6c43e4f179","fromNode":"1e92fc245749ec31","fromSide":"right","toNode":"fa4e405f8d7fd851","toSide":"left"},
+		{"id":"3f06d16a4b33cf60","fromNode":"facc0a1728a87d91","fromSide":"right","toNode":"71d6832393f980f6","toSide":"left"},
+		{"id":"14370ccf5c54fe7e","fromNode":"71d6832393f980f6","fromSide":"right","toNode":"dc5b3053456a02a4","toSide":"left"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
