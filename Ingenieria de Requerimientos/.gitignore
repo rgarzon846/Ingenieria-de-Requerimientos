@@ -1,3 +1,20 @@
-.obsidian/plugins/
+# Obsidian config (local)
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Cache y archivos temporales
+.obsidian/cache/
+.trash/
+
+# Plugins (opcional)
+.obsidian/plugins
+
+# Backups
+*.bak
+*.tmp
+*.swp
+
+# Logs
+*.log.obsidian/plugins/
 .obsidian/cache/
 .obsidian/workspace.json
